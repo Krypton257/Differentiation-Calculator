@@ -1,0 +1,5 @@
+e^(log(x))
+sin(sin(x))
+log(sin(x))
+6^(tan(x))
+cot(e^(x))
